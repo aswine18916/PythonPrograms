@@ -1,4 +1,4 @@
-"""Use of Keyworded arguments in a function"""
+"""Use of Keyworded arguments in a function to print data"""
 def introduction(**data):
     for k,v in data.items():
         print("{} is {}".format(k,v))
