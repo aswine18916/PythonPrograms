@@ -1,4 +1,4 @@
-"""using lambda and map functions to do arithematic operations"""
+"""using lambda and map functions to do arithmetic operations"""
 newtest= lambda  n: n+10
 
 print(newtest(20))
