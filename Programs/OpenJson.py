@@ -1,5 +1,5 @@
-"""Opening a text file
-Reading the contents of the file.
+"""Opening a text file,
+reading the contents of the file.
 Converting the contents in the text to a python dictionary"""
 
 import json
