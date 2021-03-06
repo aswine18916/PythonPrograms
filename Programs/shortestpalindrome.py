@@ -1,4 +1,4 @@
-"""Finding the shortest palindrome for an input"""
+"""finding the shortest palindrome for an input"""
 def compute_number(s):
     def is_palindrome(s):
         if s == s[::-1]:
