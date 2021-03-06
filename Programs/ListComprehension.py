@@ -1,4 +1,4 @@
-"""List comprehension examples"""
+"""Printing data using the concept of list comprehension examples"""
 """Program 1"""
 man=[c for c in 'human']
 print(man)
