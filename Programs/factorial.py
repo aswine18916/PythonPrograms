@@ -1,4 +1,4 @@
-"""Factorial of a number using recursion"""
+"""factorial of a number using recursion"""
 
 t=int(input("Enter the number of input : "))
 
