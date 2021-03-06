@@ -1,6 +1,6 @@
 import re
 
-"""Finding the occurence of words in a given paragraph and displaying the number of occurence"""
+"""Finding the occurrence of words in a given paragraph and displaying the number of occurrence"""
 text='''
 Jana ganamana adhinayaka Jaya he
 
