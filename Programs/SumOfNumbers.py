@@ -1,5 +1,5 @@
 
-"""User inputs three number and find the sum of all digits between these numbers in the format given
+"""User inputs three numbers and find the sum of all digits between these numbers in the format given
 i,j,k are three numbers
 sum=i+(i-1)+(i-2)+(i-3)+...+j+(j-1)+(j-2)+(j-3)+...k
 ex: 10,8,15
