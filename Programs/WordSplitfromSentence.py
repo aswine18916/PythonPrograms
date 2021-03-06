@@ -1,6 +1,6 @@
 
 """
-Splitting words from a sentence and capitilising each word
+Splitting words from a sentence and capitalizing each word
 """
 sentence="catcollegecountrycrowncroatia"
 for c in sentence:
