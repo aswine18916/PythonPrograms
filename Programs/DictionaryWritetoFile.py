@@ -1,5 +1,5 @@
 import json
-"""Creating a dictionary and writing the items in the dictionary to a file"""
+"""creating a dictionary and writing the items in the dictionary to a file"""
 x = {
     "name": "Mike",
     "age": 40,
