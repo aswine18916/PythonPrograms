@@ -1,4 +1,4 @@
-"""Getting a response from an API and doing file actions using file methods in python"""
+"""Getting response from an API and doing file actions using file methods in Python"""
 import requests
 import json
 req=requests.get("http://api.dailysmarty.com/posts")
