@@ -1,5 +1,6 @@
-
+"""Number of occurence of a letter in a string using two different logics"""
 sentence = "malayalam"
+
 print("Logic 1")
 """Logic 1"""
 final=""
