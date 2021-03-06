@@ -1,4 +1,4 @@
-"""Fibonacci series using while loop"""
+"""fibonacci series using while loop"""
 
 n=int(input("Enter the number: "))
 c=0
