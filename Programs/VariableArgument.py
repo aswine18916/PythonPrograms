@@ -1,3 +1,4 @@
+"""using the concept of variable arguments"""
 """Program 1"""
 def add(*num):
     sum = 0
