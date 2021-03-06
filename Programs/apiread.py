@@ -1,7 +1,7 @@
 import requests
 
 
-"""Reading  a request from an API using get method.
+"""Reading  a request from an API using get method,
  Fetching a particular node from the output.
  Writing the fetched output to a text file"""
 
