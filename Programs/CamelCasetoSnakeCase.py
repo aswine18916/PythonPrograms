@@ -1,4 +1,4 @@
-"""Converting a camel case sentence to snake case sentence"""
+"""Converting a camel case Sentence to snake case Sentence"""
 sentence="MyNameIsAswin"
 newstring=""
 final=""
