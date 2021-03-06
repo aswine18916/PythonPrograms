@@ -1,4 +1,4 @@
-"""Navigating to a  specific item in a dictionary"""
+"""Navigating to a specific item in a dictionary"""
 dict = {
   "Science": 10,
   "Commerce": 13,
