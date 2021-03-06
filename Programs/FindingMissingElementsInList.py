@@ -1,4 +1,4 @@
-"""finding missing numbers in a list of numbers using concept of set"""
+"""finding missing numbers in a list of numbers using the concept of set"""
 inp=[1,2,3,4,7,8,10]
 def findmissing(lst):
     s=lst[0]
