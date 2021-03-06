@@ -1,5 +1,5 @@
 
-"""Finding the number of each word in a sentence"""
+"""Finding the number of every word in a sentence"""
 
 str= "Hello Hello How are are are you you you"
 low=str.lower()
