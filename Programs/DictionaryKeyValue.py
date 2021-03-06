@@ -1,5 +1,5 @@
 import json
-"""Creating a dictionary and Accessing the items in the dictionary"""
+"""creating a dictionary and Accessing the items in the dictionary"""
 x = {
     "name": "Mike",
     "age": 40,
