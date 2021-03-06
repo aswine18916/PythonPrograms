@@ -1,5 +1,5 @@
 """
-From sentence print a list with only one copy of each word from the prevuiys
+from a given sentence print a list with only one copy of each word from the previous
 """
 import re
 s="Hello Hello, My Name Name is is is Aswin. I am an engineer by profession"
