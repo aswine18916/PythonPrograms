@@ -1,5 +1,5 @@
 """Input two numbers r and s.
-Finding the numbers with r digigts whose sum is s
+finding the numbers with r digigts whose sum is s
 For ex: if r =3  and s=6, the program returns all 3 digit numbers whose sum is 6"""
 import math
 a=[]
