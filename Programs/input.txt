@@ -1,0 +1,11 @@
+2019 Feb 20 18:10:12.269 GMT-05 10.240.23.34 HTTP-NIO-Worker-1-8 [POST] '/IntServices/MDUS_SMLocationBulkNotification/' [202] -bytes 2372ms
+2019 Feb 20 18:12:17.564 GMT-05 10.240.23.34 HTTP-NIO-Worker-1-63 [POST] '/IntServices/MDUS_RemoteConnMgmt/' [202] -bytes 149ms
+2019 Feb 20 18:12:17.651 GMT-05 10.240.23.34 HTTP-NIO-Worker-1-68 [POST] '/IntServices/MDUS_RemoteConnMgmt/' [202] -bytes 62ms
+serviceName: /IntServices/MDUS_RemoteConnMgmt/ statusCode: {'202': 2} statusCode: {'400': 0} statsCode {'500': 2}
+serviceName: /IntServices/MDUS_SMLocationBulkNotification/ statusCode: {'202': 5} statusCode: {'400': 2} statsCode {'500': 4}
+```
+```
+```
+serviceName: /IntServices/MDUS_RemoteConnMgmt/ statusCode: {'202': 2} statusCode: {'400': 0} statsCode {'500': 2}
+serviceName: /IntServices/MDUS_SMLocationBulkNotification/ statusCode: {'202': 5} statusCode: {'400': 2} statsCode {'500': 4}
+```

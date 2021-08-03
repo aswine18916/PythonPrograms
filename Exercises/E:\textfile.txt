@@ -1,0 +1,41 @@
+{
+    "name": "Mike",
+    "age": 40,
+    "married": true,
+    "divorced": false,
+    "children": [
+        "Ron",
+        "Kate"
+    ],
+    "pets": null,
+    "cars": [
+        {
+            "model": "BMW 330",
+            "mpg": 18.5
+        },
+        {
+            "model": "Ford Escape",
+            "mpg": 20.1
+        }
+    ]
+}{
+    "name": "Mike",
+    "age": 40,
+    "married": true,
+    "divorced": false,
+    "children": [
+        "Ron",
+        "Kate"
+    ],
+    "pets": null,
+    "cars": [
+        {
+            "model": "BMW 330",
+            "mpg": 18.5
+        },
+        {
+            "model": "Ford Escape",
+            "mpg": 20.1
+        }
+    ]
+}
