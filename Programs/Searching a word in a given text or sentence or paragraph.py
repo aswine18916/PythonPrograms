@@ -2,7 +2,7 @@ import re
 
 """Finding the occurence of words in a given paragraph and displaying the number of occurence"""
 text='''
-Jana ganamana adhinayaka Jaya he
+Jana gana mana adhinayaka Jaya he
 
 Bharata bhagya vidhata
 
@@ -32,7 +32,6 @@ Jaya he Jaya he Jaya he Jaya Jaya Jaya Jaya he!
 def findall(*yourstring):
     for word in yourstring:
         search = re.findall(word, text)
-
         print("The searched word {} is present {} times in the whole text".format(word,len(search)))
 
 

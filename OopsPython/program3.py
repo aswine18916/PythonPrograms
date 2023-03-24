@@ -1,4 +1,5 @@
-c = 8
+
+c=8
 a = []
 b = (1, 2)
 test = {}
@@ -6,7 +7,6 @@ test = {}
 
 def aux0(d):
     global c
-    c = 7
     a.append(d)
 
 
@@ -40,3 +40,4 @@ for f in [aux0, aux2, aux3, aux4]:
     except Exception as e:
         print
         "Error: %s" % e
+

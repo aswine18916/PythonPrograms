@@ -13,10 +13,10 @@
 
 scores = [66, 90, 68, 59, 76, 60, 88, 74, 81, 65]
 
-def is_A_student(score):
-    return score > 75
+# def is_A_student(score):
+#     return score > 75
 
-over_75 = tuple(filter(is_A_student, scores))
+over_75 = tuple(filter(lambda score: score>75, scores))
 
 print(over_75)
 

@@ -6,4 +6,4 @@ k=int(x/2)
 for i in range(0,k):
     pattern="A" * ((2*i)+1)
     print(pattern.center(y,'-'))
-#print("A".center(y,'-'))
+print("A".center(y,'-'))

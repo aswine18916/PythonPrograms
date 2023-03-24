@@ -31,4 +31,4 @@ def sum_of_numbers(i,j,k):
         print(y)
     print(long)
 
-sum_of_numbers(16,26,36)
+sum_of_numbers(5,8,11)

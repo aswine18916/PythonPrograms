@@ -15,7 +15,7 @@ x = {
 }
 # use four indents to make it easier to read the result:
 y=json.dumps(x, indent=4)
-print(type(y))
+print(y)
 print(x['cars'][1]["model"])
 with open("E:\\textfile.txt", 'a+') as text:
   text.write(y)

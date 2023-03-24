@@ -1,0 +1,6 @@
+{
+    "name": "Mike",
+    "age": 40,
+    "married": true,
+    "divorced": false
+}
